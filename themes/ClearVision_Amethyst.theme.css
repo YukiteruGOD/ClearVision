@@ -27,7 +27,7 @@ Changelog: https://git.io/v6r5N
 	--main-color: #da27e6;
 	--hover-color: #a71eb3;
     --background-blur: 0px;
-    --background-brightness: 100%;
+    --background-brightness: 150%;
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://github.com/Zerthox/ClearVision/raw/master/images/amethyst.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(https://images4.alphacoders.com/725/thumb-1920-725118.png) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
